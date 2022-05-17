@@ -1,2 +1,0 @@
-# JPX_Tokyo_Stock_Exchange_Prediction
-CapStone Project
