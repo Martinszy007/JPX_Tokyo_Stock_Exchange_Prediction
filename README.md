@@ -4,7 +4,7 @@ In order to succeed in any financial market, one must first identify sound inves
 
 ## Data
 
-The data and challenge were kindly privided by Kaggle: 
+The data and challenge was gotten from Kaggle: 
 
 [jpx-tokyo-stock-exchange-prediction](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/overview)
 
@@ -26,8 +26,8 @@ Prices:
 - Volatility
 
 please see notebooks for details:
-Feature engineering_P: [Feature_engineering_P](notebooks/Feature_engineering_P.ipynb) <br>
-Feature engineering_P Nan Research: [Feature_engineering_P_Nan_Research](notebooks/Feature_engineering_P_Nan_Research.ipynb) <br>
++ Feature engineering_P: [Feature_engineering_P](notebooks/Feature_engineering_P.ipynb) <br>
++ Feature engineering_P Nan Research: [Feature_engineering_P_Nan_Research](notebooks/Feature_engineering_P_Nan_Research.ipynb) <br>
 
 ## Our Stakeholder Requirements
 
@@ -42,13 +42,16 @@ To recommend stocks that Takeshi can invest in to make short term profits.
 ## EDA Exploration
 A detailed Eda exploration was done on the all the Dataset available.
 Please see notebook for details:
-EDA Exploration: [EDA_Exploration](notebooks/EDA_Exploration.ipynb) <br>
++ EDA Exploration: [EDA_Exploration](notebooks/EDA_Exploration.ipynb) <br>
 
 
 ## Model Exploration
+
 Seven models were explored on selected stock.
 please see notebook for details:
-Model Exploration: [Model_Exploration](notebooks/Model_Exploration.ipynb) <br>
++ Model Exploration: [Model_Exploration](notebooks/Model_Exploration.ipynb) <br>
+
+
 Based on our model performance Fbprophet & Long short Term Memory(LSTM) was further explored in subsequent notebooks based on our stakeholder requirements
 
 
